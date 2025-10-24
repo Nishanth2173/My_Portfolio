@@ -46,7 +46,7 @@ const projects = [
   },
   {
     title:'Personal Portfolio Website',
-    description:'Created a personal portfolio website to showcase projects, skills, and experience using React and Bootstrap. Implemented responsive design and smooth navigation.',
+    description:'Created a personal portfolio website to showcase projects, skills, and experience using React and Bootstrap, Tailwind Css. Implemented responsive design and smooth navigation.',
     achievement:'Enhanced online presence and professional branding',
     tech:['React','Bootstrap','Tailwind CSS','CSS','JavaScript','HTML'],
     github:'https://github.com/Nishanth2173/My_Portfolio.git'
